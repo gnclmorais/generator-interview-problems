@@ -1,4 +1,4 @@
-# generator-generator-interview-problems [![Build Status](https://secure.travis-ci.org/gnclmorais/generator-generator-interview-problems.png?branch=master)](https://travis-ci.org/gnclmorais/generator-generator-interview-problems)
+# generator-interview-problems
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -45,3 +45,22 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+
+
+
+
+
+
+
+
+
+## Structure
+```
+/problem-name-folder
+├─ README.md
+├─ solution.js
+└─ test
+    └─ test.js
+```
+
+## Install/Run
